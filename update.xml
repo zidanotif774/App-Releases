@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.0.0</version>
-    <url>https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/download/v1.0.0/YourApp-Setup.exe</url>
+    <url>https://github.com/zidanotif774/App-Releases/releases/download/1.0.1/ShopMS_Setup_v1.0.1.exe</url>
     <changelog>https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/tag/v1.0.0</changelog>
     <mandatory>false</mandatory>
 </item>
